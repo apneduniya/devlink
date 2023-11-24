@@ -1,0 +1,9 @@
+const String menu = 'assets/icons/menu.svg';
+const String bell = 'assets/icons/bell.svg';
+const String filter = 'assets/icons/filter.svg';
+const String search = 'assets/icons/search.svg';
+const String heart = 'assets/icons/heart.svg';
+const String home = 'assets/icons/home.svg';
+const String profile = 'assets/icons/profile.svg';
+const String discover = 'assets/icons/discover.svg';
+const String add = 'assets/icons/add.svg';
